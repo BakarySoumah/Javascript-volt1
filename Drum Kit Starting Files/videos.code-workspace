@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"name": "videos",
+			"path": "E:\\PROJET SITE WEB VSD\\EXERCICE\\videos"
+		},
+		{
+			"name": "hover css",
+			"path": "E:\\PROJET SITE WEB VSD\\EXERCICE\\hover css"
+		},
+		{
+			"name": "fond en image",
+			"path": "E:\\PROJET SITE WEB VSD\\EXERCICE\\fond en image"
+		},
+		{
+			"name": "image fondu",
+			"path": "E:\\PROJET SITE WEB VSD\\EXERCICE\\image fondu"
+		},
+		{
+			"name": "Landing page Skillex",
+			"path": "E:\\PROJET SITE WEB VSD\\EXERCICE\\Landing page Skillex"
+		},
+		{
+			"name": "carassol css",
+			"path": "E:\\PROJET SITE WEB VSD\\EXERCICE\\carassol css"
+		},
+		{
+			"path": "..\\..\\..\\COURS GRAFIKART HTML CSS SCASS\\EXERCICES BLOG"
+		},
+		{
+			"path": "..\\..\\..\\COURS GRAFIKART HTML CSS SCASS\\TP SOCIAL"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\COURS GRAFIKART HTML CSS SCASS"
+		},
+		{
+			"path": "..\\..\\..\\COURS JS GIRAUD"
+		},
+		{
+			"path": "E:\\PROJET DE LA SEMAINE"
+		},
+		{
+			"path": "E:/exo dev/profil"
+		},
+		{
+			"path": "../../../COURS GRAFIKART HTML CSS SCASS/grid LN"
+		},
+		{
+			"path": "../../../JAVASCRIPT GRAFIKART 2022"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JAVASCRIPT GRAFIKART 2022"
+	}
+}
